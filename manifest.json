@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "rapidfuzz",
+  "repo": "strsim-rs",
+  "versions": [
+    {
+      "commit": "f72cd1cbbfc0b43db217a9c57c543b025bdba863",
+      "parsed_at": "2026-11-22T09:33:56.896047+00:00",
+      "tag": "v0.11.1",
+      "filetree": "filetree/f72cd1cbbfc0b43db217a9c57c543b025bdba863.nq.gz",
+      "blobs": [
+        "blob/6a3b098ab35dbf34ccfd6a054100080441db241e.nq.gz",
+        "blob/a81103dff234e572e32f9f987b80a8a1e0643475.nq.gz",
+        "blob/8d1fbe1dce99c844df6c2c7c37c39616e22ed800.nq.gz",
+        "blob/ee635471570ff03278f0eb2f1915d87be21488fd.nq.gz",
+        "blob/15c7041b6442a7d87af2ffd2294c611acdc67501.nq.gz",
+        "blob/0fbd4dc63032764b41f08d1c7b62d5de637b1a95.nq.gz",
+        "blob/45d085112479a324def6360cc94439137de1d7e1.nq.gz",
+        "blob/62c879b5a544dc404b35dfcb3b9c4a13f8111b34.nq.gz",
+        "blob/41ddad1a6b403a430df7ba03a89eb76e3ddd2a53.nq.gz",
+        "blob/ba1f2ce891614d4053f750bd5a701a4d75216cac.nq.gz",
+        "blob/991fc6f5b5d65c3ab65324c5bd90a4c8b849ebce.nq.gz",
+        "blob/ff6eca9e9bb2e4f4d04670c81616bdd439c59de7.nq.gz",
+        "blob/80cd9fefa098a056f5673ff985680aa1a134fbe2.nq.gz",
+        "blob/5ad4a63b0a0f37d201d15b610818a4c843765eab.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
