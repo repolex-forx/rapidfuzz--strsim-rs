@@ -1,0 +1,11 @@
+{
+  "org": "rapidfuzz",
+  "repo": "strsim-rs",
+  "versions": [
+    {
+      "commit": "f72cd1cbbfc0b43db217a9c57c543b025bdba863",
+      "tag": "v0.11.1",
+      "parsed_at": "2026-11-22T09:40:52.707036+00:00"
+    }
+  ]
+}
